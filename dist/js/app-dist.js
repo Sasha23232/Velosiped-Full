@@ -1,0 +1,1 @@
+$(".castom-slider").slick({arrows:!1,dots:!0});const burger=document.querySelector(".burger"),menu=document.querySelector(".menu"),body=document.body;burger.addEventListener("click",(()=>{menu.classList.toggle("open"),body.classList.toggle("hidden")}));
